@@ -1,0 +1,15 @@
+# Virtual environments and their installed packages
+.venv/
+venv/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# The script is the maintained entry point; this notebook is an incomplete draft.
+analysis.ipynb
